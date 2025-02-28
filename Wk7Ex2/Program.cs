@@ -79,10 +79,6 @@ namespace Wk7Ex2
             Console.ReadLine();
 
             //Pushed to GitHub Repo Wk7Ex2
-
-
-
-
         }
-    }
+    }    
 }
